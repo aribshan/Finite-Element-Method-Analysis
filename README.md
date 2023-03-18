@@ -5,7 +5,7 @@ This project uses MATLAB to perform finite element analysis 2D surfaces under st
 
 ## Discretization
 The disc file does the discretization for the body. The user can choose the value of 'i' to decide the number of subdivisions.
-Below is an image of the discretization with different values of i.
+Below is an image of the discretization with different values of i. \n
 ![Screenshot](Disc.png)
 
 ## Calculations
